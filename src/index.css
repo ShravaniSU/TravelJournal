@@ -1,0 +1,123 @@
+@import "tailwindcss";
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800;900&display=swap');
+
+:root {
+  --bg-page: #f0fdf4; /* Emerald 50 - Soft Sage Tint */
+  --bg-card: #ffffff;
+  --bg-alternate: #fffbeb; /* Amber 50 - Warm Sun Tint */
+  --primary: #065f46; /* Emerald 800 */
+  --primary-dark: #064e3b; /* Emerald 900 */
+  --primary-light: #d1fae5; /* Emerald 100 */
+  --accent: #b45309; /* Amber 700 */
+  --accent-light: #fef3c7; /* Amber 100 */
+  --text-main: #1e293b; /* Slate 800 */
+  --text-muted: #64748b; /* Slate 500 */
+  --border-color: #cbd5e1; /* Slate 300 */
+}
+
+* {
+  @apply transition-colors duration-200;
+}
+
+html {
+  @apply scroll-smooth;
+}
+
+body {
+  background-color: var(--bg-page);
+  color: var(--text-main);
+  font-family: 'Inter', system-ui, -apple-system, sans-serif;
+  min-height: 100vh;
+}
+
+h1, h2, h3, h4 {
+  @apply font-bold tracking-tight text-slate-900;
+}
+
+h1 { @apply text-4xl md:text-5xl lg:text-7xl; }
+h2 { @apply text-3xl md:text-4xl lg:text-5xl; }
+h3 { @apply text-2xl md:text-3xl; }
+h4 { @apply text-xl md:text-2xl; }
+
+p {
+  @apply leading-relaxed;
+}
+
+/* Custom Components */
+.container-custom {
+  @apply w-full max-w-7xl mx-auto px-4 md:px-8;
+}
+
+.glass-effect {
+  @apply bg-white/90 backdrop-blur-md border border-white/20 shadow-lg;
+}
+
+.card-shadow {
+  @apply shadow-md hover:shadow-2xl transition-all duration-300;
+}
+
+.btn-primary {
+  @apply inline-flex items-center justify-center px-8 py-4 text-white font-bold rounded-2xl transition-all duration-200 hover:-translate-y-1 active:translate-y-0 shadow-lg shadow-[#065f46]/20;
+  background-color: var(--primary);
+}
+
+.btn-primary:hover {
+  background-color: var(--primary-dark);
+}
+
+.btn-accent {
+  @apply inline-flex items-center justify-center px-8 py-4 text-white font-bold rounded-2xl transition-all duration-200 hover:-translate-y-1 active:translate-y-0 shadow-lg shadow-[#b45309]/20;
+  background-color: var(--accent);
+}
+
+.btn-outline {
+  @apply inline-flex items-center justify-center px-8 py-4 border-2 font-bold rounded-2xl transition-all duration-200 hover:-translate-y-1 active:translate-y-0;
+  border-color: var(--primary);
+  color: var(--primary);
+}
+
+.btn-outline:hover {
+  background-color: var(--primary-light);
+}
+
+.badge {
+  @apply inline-block px-4 py-1.5 text-xs font-black uppercase tracking-widest rounded-full;
+  background-color: var(--primary-light);
+  color: var(--primary);
+}
+
+.text-gradient {
+  @apply bg-gradient-to-r from-[#065f46] to-[#047857] bg-clip-text text-transparent;
+}
+
+/* Section Backgrounds */
+.section-emerald {
+  background-color: #f0fdf4;
+}
+
+.section-amber {
+  background-color: #fffbeb;
+}
+
+.section-white {
+  background-color: #ffffff;
+}
+
+/* Animations */
+@keyframes fadeIn {
+  from { opacity: 0; }
+  to { opacity: 1; }
+}
+
+@keyframes slideUp {
+  from { opacity: 0; transform: translateY(30px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+
+.animate-fade-in {
+  animation: fadeIn 0.6s ease-out forwards;
+}
+
+.animate-slide-up {
+  animation: slideUp 0.8s cubic-bezier(0.16, 1, 0.3, 1) forwards;
+}
