@@ -4,8 +4,7 @@ on:
   push:
     branches:
       - main
-    paths:
-      - 'index.html'
+    # Removing the 'paths' section here makes it trigger on any file change
 
 jobs:
   deploy:
@@ -24,6 +23,7 @@ jobs:
       - name: Upload Artifact
         uses: actions/upload-pages-artifact@v3
         with:
+          # This tells it to upload the entire current folder contents
           path: '.'
       - name: Deploy to GitHub Pages
         id: deployment
