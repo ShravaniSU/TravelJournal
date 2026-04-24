@@ -18,11 +18,11 @@ function HomePage({ places }) {
             </div>
 
             <h1 className="mb-10 text-5xl md:text-8xl lg:text-9xl font-black text-slate-900 tracking-tight leading-[0.9] lg:leading-[0.85]">
-              Sacred <span className="text-[#065f46]">Trails</span> <br/> <span className="text-slate-400">of the North</span>
+              Sacred <span className="text-[#065f46]">Trails</span> <br/> <span className="text-slate-400">of India</span>
             </h1>
 
             <p className="text-xl md:text-2xl text-slate-600 mb-14 leading-relaxed max-w-3xl mx-auto font-medium">
-              A curated collection of journeys through the high peaks of Uttarakhand. Discover the silence and soul of the Himalayas.
+              A curated collection of spiritual journeys through the revered landscapes of India and Nepal. From Himalayan peaks to ancient riverside shrines.
             </p>
 
             <div className="flex flex-col sm:flex-row items-center justify-center gap-6">

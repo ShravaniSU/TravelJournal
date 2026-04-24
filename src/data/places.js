@@ -133,4 +133,235 @@ export const places = [
       },
     ],
   },
-]
+  {
+    slug: 'mahakal',
+    name: 'Mahakal, Ujjain',
+    region: 'Ujjain, Madhya Pradesh',
+    coverImage:
+      'https://cdn.mahakal.brainabove.net/public-static/bg_4.jpg',
+    coverAlt: 'The majestic Mahakaleshwar Temple in Ujjain at twilight',
+    shortDescription:
+      'The fierce and majestic Jyotirlinga where time itself is worshipped as the Lord of Lords.',
+    intro:
+      'Mahakaleshwar is more than a temple; it is the center of the universe for many. Here, Lord Shiva is worshipped as Mahakal, the Lord of Time and Death.',
+    story:
+      'Entering the Mahakal complex in Ujjain feels like stepping into a different dimension. The air is thick with the scent of incense and the rhythmic chanting of "Jai Mahakal". The most profound experience is the Bhasma Aarti, a pre-dawn ritual where the deity is bathed in sacred ash.',
+    significance:
+      'Mahakaleshwar is one of the twelve Jyotirlingas and is unique because it is dakshinamukhi (south-facing). It is also one of the 18 Shakti Peethas.',
+    personalExperience:
+      'Watching the evening aarti by the Kshipra river after visiting the temple was a moment of pure serenity. Mahakal taught me about the cycle of life.',
+    highlights: ['Bhasma Aarti ritual', 'South-facing Jyotirlinga', 'Kshipra River Ghats'],
+    gallery: [
+      {
+        src: 'https://m.media-amazon.com/images/I/61Fx8McRlML._AC_UF894,1000_QL80_.jpg',
+        alt: 'Temple corridor with ancient carvings',
+      },
+      {
+        src: 'https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Mahakaleshwar_Temple%2C_Ujjain.jpg/1280px-Mahakaleshwar_Temple%2C_Ujjain.jpg',
+        alt: 'Evening aarti lamps reflecting in water',
+      },
+      {
+        src: 'https://cdn.mahakal.brainabove.net/public-static/BhasmaAarti.jpg',
+        alt: 'Ancient stone shikhara of Mahakal temple',
+      },
+    ],
+  },
+  {
+    slug: 'omkareshwar',
+    name: 'Omkareshwar',
+    region: 'Khandwa, Madhya Pradesh',
+    coverImage:
+      'https://touringwithpk.com/wp-content/uploads/2025/01/IMG_2545-2a.jpg',
+    coverAlt: 'The sacred island of Omkareshwar on the Narmada River',
+    shortDescription:
+      'A sacred island shaped like the holy symbol "Om", cradled by the gentle flow of the Narmada river.',
+    intro:
+      'Omkareshwar is a place of profound peace. The entire island is shaped like the sacred symbol "Om", making it one of the most spiritually significant sites in India.',
+    story:
+      'Crossing the bridge to the Omkareshwar temple, you feel the cool breeze from the Narmada river. The temple is built into the hillside, and its narrow passages lead you to the ancient Jyotirlinga. The rhythm of the river and the bells creates a meditative atmosphere.',
+    significance:
+      'One of the 12 Jyotirlingas, Omkareshwar is unique for its island setting. It is associated with King Mandhata and has been a center of pilgrimage for thousands of years.',
+    personalExperience:
+      'Taking a boat ride around the island at sunset was magical. The reflection of the temple in the water and the distant sounds of chanting made it unforgettable.',
+    highlights: ['Om-shaped island', 'Narmada river boat ride', 'Ancient rock-cut shrines'],
+    gallery: [
+      {
+        src: 'https://chardham.ticketstotrip.com/wp-content/uploads/2025/08/omkareshwar-temple-island.webp',
+        alt: 'Narmada river flowing past the temple',
+      },
+      {
+        src: 'https://dharohar.hargharpuja.com/wp-content/uploads/2025/04/Omkareshwar-jyotirlinga.jpg',
+        alt: 'Temple entrance at sunrise',
+      },
+      {
+        src: 'https://upload.wikimedia.org/wikipedia/commons/0/01/Omkareswar_Jyotirlinga.jpg',
+        alt: 'Devotees crossing the bridge',
+      },
+    ],
+  },
+  {
+    slug: 'kashi-vishwanath',
+    name: 'Kashi Vishwanath',
+    region: 'Varanasi, Uttar Pradesh',
+    coverImage:
+      'https://www.pilgrimagetour.in/blog/wp-content/uploads/2023/10/How-to-Reach-Kashi-Vishwanath-Temple.jpg',
+    coverAlt: 'The golden dome of Kashi Vishwanath temple against the blue sky',
+    shortDescription:
+      'The Golden Temple of Kashi, where the eternal light of Shiva illuminates the world\'s oldest living city.',
+    intro:
+      'Kashi Vishwanath is the heart of Varanasi. It is a place where life and death meet, and where the spiritual energy of thousands of years is palpable in every stone.',
+    story:
+      'Walking through the narrow "galis" of Kashi, you finally arrive at the magnificent temple complex. The newly built corridor has opened up the view to the Ganga, making the transition from the river to the shrine seamless and breathtaking.',
+    significance:
+      'Varanasi is the holiest of the seven sacred cities (Sapta Puri). The temple is a Jyotirlinga and has been destroyed and rebuilt several times, symbolizing the eternal nature of faith.',
+    personalExperience:
+      'The morning Ganga Aarti followed by a visit to Vishwanath Ji was the highlight of my trip. The city is chaotic yet perfectly still at its core.',
+    highlights: ['Golden Shikhara', 'Vishwanath Corridor', 'Ganga Aarti'],
+    gallery: [
+      {
+        src: 'https://d18guwlcxyb2ak.cloudfront.net/wp-content/uploads/2019/03/13043614/CIty-Varanasi-Kashi-Vishwanath.jpg',
+        alt: 'Ghats of Varanasi at dawn',
+      },
+      {
+        src: 'https://content.skyscnr.com/m/26eaa06a2be696f0/original/GettyImages-525109131.jpg',
+        alt: 'Corridor architecture',
+      },
+      {
+        src: 'https://kashiyatra.in/wp-content/uploads/2023/10/dashashwamedh-ghat-evening-ganga-aarti.jpg',
+        alt: 'Evening aarti on the Ganga',
+      },
+    ],
+  },
+  {
+    slug: 'ayodhya',
+    name: 'Ayodhya',
+    region: 'Ayodhya, Uttar Pradesh',
+    coverImage:
+      'https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Shri_Ram_Janambhoomi_Mandir%2C_Ayodhya_Dham.jpg/1280px-Shri_Ram_Janambhoomi_Mandir%2C_Ayodhya_Dham.jpg',
+    coverAlt: 'The magnificent Ram Mandir in Ayodhya under a golden sunset',
+    shortDescription:
+      'The grand homecoming of Lord Ram in a magnificent temple that blends ancient tradition with modern architectural glory.',
+    intro:
+      'Ayodhya is a city of celebration. The new Ram Mandir is not just a building; it is a symbol of a nation\'s soul returning to its roots.',
+    story:
+      'The atmosphere in Ayodhya is electric. The wide roads leading to the temple are lined with flags and murals. Entering the temple, the intricate carvings in pink sandstone take your breath away. The idol of Ram Lalla is mesmerizing.',
+    significance:
+      'The birthplace of Lord Ram, Ayodhya is one of the most important pilgrimage sites in Hinduism. The new temple is built in the Nagara style and is a masterpiece of Indian craftsmanship.',
+    personalExperience:
+      'I felt a sense of collective joy in Ayodhya. Everyone was smiling, chanting, and sharing the same feeling of devotion. It was truly a historic moment.',
+    highlights: ['Ram Janmabhoomi', 'Nagara Architecture', 'Sarayu River Aarti'],
+    gallery: [
+      {
+        src: 'https://c9admin.cottage9.com/uploads/5652/ayodhya-ram-mandir-murti.jpg',
+        alt: 'Intricate carvings on temple pillars',
+      },
+      {
+        src: 'https://www.tourmyindia.com/socialimg/ayodhya-tourism.jpg',
+        alt: 'Temple flags fluttering in the wind',
+      },
+      {
+        src: 'https://upload.wikimedia.org/wikipedia/commons/b/ba/Sarayu_River_night_view%2C_Ayodhya_001.jpg?utm_source=en.wikivoyage.org&utm_campaign=index&utm_content=original',
+        alt: 'Evening lights in Ayodhya',
+      },
+    ],
+  },
+  {
+    slug: 'mahakumbh-2025',
+    name: 'Mahakumbh 2025',
+    region: 'Prayagraj, Uttar Pradesh',
+    coverImage:
+      'https://images.mid-day.com/images/images/2025/feb/2mahakumbh_d.jpg',
+    coverAlt: 'A vast gathering of devotees at the Sangam during Kumbh Mela',
+    shortDescription:
+      'The world\'s largest spiritual congregation, where millions unite at the sacred Sangam for a bath of immortality.',
+    intro:
+      'Mahakumbh 2025 is set to be the grandest spiritual event of our time. It is a celebration of faith that transcends boundaries and time.',
+    story:
+      'Imagine a city of tents that pops up overnight. The energy of millions of people walking towards the Sangam—the confluence of Ganga, Yamuna, and Saraswati—is indescribable. The sound of conch shells and the smell of woodfire fill the air.',
+    significance:
+      'The Mahakumbh happens every 12 years at Prayagraj. It is believed that taking a dip in the Sangam during this time cleanses one of all sins and leads to liberation.',
+    personalExperience:
+      'I am preparing for this journey with great anticipation. The idea of being part of such a massive human gathering focused entirely on spirituality is humbling.',
+    highlights: ['Triveni Sangam dip', 'Naga Sadhu procession', 'City of Tents'],
+    gallery: [
+      {
+        src: 'https://imgs.etvbharat.com/etvbharat/prod-images/15-01-2025/1200-675-23329238-1083-23329238-1736939574788.jpg',
+        alt: 'Devotees at the Sangam',
+      },
+      {
+        src: 'https://www.livemint.com/lm-img/img/2025/01/13/600x338/An-aerial-view-of-Sangam-during-Maha-Kumbh-Mela-at_1736741306630_1736741314391.jpg',
+        alt: 'Sadhu at the Kumbh Mela',
+      },
+      {
+        src: 'https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Pantoon_bridge_view_01.jpg/1280px-Pantoon_bridge_view_01.jpg',
+        alt: 'Aerial view of the temporary city',
+      },
+    ],
+  },
+  {
+    slug: 'pashupatinath',
+    name: 'Pashupatinath',
+    region: 'Kathmandu, Nepal',
+    coverImage:
+      'https://upload.wikimedia.org/wikipedia/commons/1/1f/Pashupatinath_Temple-2020.jpg',
+    coverAlt: 'The golden roof of Pashupatinath temple by the Bagmati river',
+    shortDescription:
+      'The holiest Hindu temple in Nepal, where the Bagmati river witnesses the cycle of life and the eternal presence of Shiva.',
+    intro:
+      'Pashupatinath is the spiritual heart of Kathmandu. Dedicated to Lord Shiva as the Lord of Animals, it is a UNESCO World Heritage site known for its profound energy.',
+    story:
+      'Walking along the banks of the Bagmati river, you feel the weight of history and devotion. The most striking experience is the evening Bagmati Aarti, where flickering lamps and rhythmic chants create a hypnotic atmosphere.',
+    significance:
+      'Pashupatinath is one of the most important Shiva temples in the world. Its unique pagoda architecture and the sacredness of the Bagmati river make it a central pilgrimage site.',
+    personalExperience:
+      'Sitting on the opposite bank as the sun set was deeply reflective. The temple reflecting in the water brought a sense of peace that I have rarely found elsewhere.',
+    highlights: ['Bagmati River Aarti', 'UNESCO World Heritage', 'Pagoda Architecture'],
+    gallery: [
+      {
+        src: 'https://prashantb.wordpress.com/wp-content/uploads/2023/02/pashupatinath.jpg',
+        alt: 'Ancient shrines at Pashupatinath',
+      },
+      {
+        src: 'https://www.travelhimalayan.com/wp-content/uploads/2026/01/Pashupatinath-to-Mount-Kailash-1.webp',
+        alt: 'Sadhu at the temple complex',
+      },
+      {
+        src: 'https://gstreksnepal.com/wp-content/uploads/2024/12/pashupati-banner-2-6393058c.webp',
+        alt: 'Evening aarti preparations',
+      },
+    ],
+  },
+  {
+    slug: 'manakamana',
+    name: 'Manakamana',
+    region: 'Gorkha, Nepal',
+    coverImage:
+      'https://admin.visitmanakamana.com/assets/images/pages/1646373481.jpg',
+    coverAlt: 'The Manakamana temple ridge overlooking the Himalayas',
+    shortDescription:
+      'The "Wish Fulfilling" goddess perched high on a ridge, reachable by a scenic cable car journey through the clouds.',
+    intro:
+      'Manakamana Temple is dedicated to the Bhagwati goddess. Believed to grant the wishes of those who visit with a pure heart, it is one of Nepal\'s most popular pilgrimage sites.',
+    story:
+      'The journey is as memorable as the destination. The cable car ride takes you over lush green valleys and terraced fields, offering breathtaking views of the Trishuli river and the Himalayas.',
+    significance:
+      'Named from "Mana" (heart) and "Kamana" (wish), the temple dates back to the 17th century and is a significant site for both religious and cultural reasons.',
+    personalExperience:
+      'The sight of the temple surrounded by clouds was stunning. It felt like being on top of the world, both physically and spiritually.',
+    highlights: ['Scenic Cable Car', 'Wish-fulfilling Goddess', 'Himalayan Ridge Views'],
+    gallery: [
+      {
+        src: 'https://cms.holidaystonepal.in/media/Blogs/Manakamana-Temple/Manakamana-Temple.png',
+        alt: 'Cable car over the Trishuli river',
+      },
+      {
+        src: 'https://upload.wikimedia.org/wikipedia/commons/5/52/Manakamana_Cable_Car_tower.jpg',
+        alt: 'Temple ridge at sunrise',
+      },
+      {
+        src: 'https://media.istockphoto.com/id/1478302060/photo/manakamana-mai-temple-nepali-architecture-tradition-in-kalupande-hills-indrasthan-kathmandu.jpg?s=612x612&w=0&k=20&c=hcPmbOpVPp2CdHX3TRfwiJyprKK9xyYKlMSPDKzRXuQ=',
+        alt: 'Vibrant offerings at the temple',
+      },
+    ],
+  },
+];
