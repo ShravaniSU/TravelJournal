@@ -793,4 +793,268 @@ export const places = [
       },
     ],
   },
+  {
+  slug: 'jagannath-temple-puri',
+  name: 'Jagannath Temple',
+  region: 'Puri, Odisha, India',
+  coverImage:
+    'https://upload.wikimedia.org/wikipedia/commons/b/b7/Shri_Jagannath_temple.jpg',
+  coverAlt: 'The majestic Jagannath Temple tower rising above Puri',
+  shortDescription:
+    'One of the holiest Char Dham pilgrimage sites, where Lord Jagannath’s divine presence draws millions of devotees every year.',
+  intro:
+    'Jagannath Temple in Puri is among the most sacred Vaishnavite temples in India. Dedicated to Lord Jagannath, Balabhadra, and Subhadra, it is a spiritual heart of Odisha.',
+  story:
+    'The sound of conch shells, temple bells, and devotional chants fills the air around the massive temple complex. During Rath Yatra, the streets of Puri transform into a sea of devotion and celebration.',
+  significance:
+    'Built in the 12th century by King Anantavarman Chodaganga Deva, the temple is one of the Char Dham pilgrimage destinations and a major center of Hindu spirituality.',
+  personalExperience:
+    'Watching the temple flag flutter high above the sanctum while hearing distant kirtans created a feeling of timeless devotion and energy.',
+  highlights: ['Char Dham Pilgrimage', 'Rath Yatra Festival', 'Mahaprasad Tradition'],
+  gallery: [
+    {
+      src: 'https://tirupatitirumalainfo.com/wp-content/uploads/2017/07/balabhadra_subhadra_jagannath.jpg',
+      alt: 'Main entrance of Jagannath Temple',
+    },
+    {
+      src: 'https://stampedmoments.com/wp-content/uploads/2025/06/Rath-Yatra-puri-jagannath-2.jpg',
+      alt: 'Rath Yatra celebrations in Puri',
+    },
+    {
+      src: 'https://i0.wp.com/iimun.in/blog/wp-content/uploads/2025/06/main-slider-2_1670308972.jpg?fit=924%2C601&ssl=1',
+      alt: 'Temple complex from above',
+    },
+  ],
+  },
+  {
+    slug: 'vimala-devi-shaktipeeth',
+    name: 'Vimala Devi Shaktipeeth',
+    region: 'Puri, Odisha, India',
+    coverImage:
+      'https://temple.yatradham.org/public/Product/temple/temple_Oibqzpb6_202408221428030.jpg',
+    coverAlt: 'Ancient Vimala Devi shrine inside Jagannath Temple complex',
+    shortDescription:
+      'A revered Shaktipeeth where Goddess Vimala represents the divine feminine energy within the sacred Jagannath Temple complex.',
+    intro:
+      'Vimala Devi Temple is one of the important Shaktipeeths in India and is located inside the Jagannath Temple complex in Puri.',
+    story:
+      'Though smaller than the main Jagannath shrine, the temple carries immense spiritual depth. Devotees quietly gather here seeking blessings from the fierce yet compassionate goddess.',
+    significance:
+      'It is believed that the feet of Goddess Sati fell here, making it one of the sacred Shaktipeeths. Mahaprasad from Jagannath Temple becomes complete only after being offered to Vimala Devi.',
+    personalExperience:
+      'The calmness inside the shrine felt deeply grounding, especially amid the vibrant energy of the larger temple complex.',
+    highlights: ['Sacred Shaktipeeth', 'Inside Jagannath Complex', 'Ancient Goddess Worship'],
+    gallery: [
+      {
+        src: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9yMcL1kMOI8kk0wiuZ9s4TRhAUAkRXTxOmQ&s',
+        alt: 'Entrance of Vimala Devi Temple',
+      },
+      {
+        src: 'https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg0ExC-qbQo6iKi6ZcLJulYZDgCOCvMFqso8-2IHJF2eDuJkDItIVFeK6toNh1EMebPvy-7noNbn3u2A90fDaD6eFhT6izqJrAqBupDXrYJ3mnIFE3sEwbya7t4XkYdcM-TC9342yfa3f_N/s1600/bahula+devi.jpg',
+        alt: 'Stone carvings around the shrine',
+      },
+      {
+        src: 'https://api.blessingsonthenet.com/uploads/microsite/46c2ccbdc51e51c269d220c422597689-1699023840667-mahalaxmi-temple-kolhapur_3.jpg',
+        alt: 'Devotees offering prayers at Vimala temple',
+      },
+    ],
+  },
+  {
+    slug: 'mahalakshmi-temple-puri',
+    name: 'Mahalakshmi Temple',
+    region: 'Puri, Odisha, India',
+    coverImage:
+      'https://bhubaneswartourism.in/images/tourist-places/lakshmi-temple-puri/lakshmi-temple-2.jpg',
+    coverAlt: 'Sacred Mahalakshmi shrine inside Puri temple complex',
+    shortDescription:
+      'A divine shrine dedicated to Goddess Mahalakshmi, revered as the guardian of prosperity and the kitchen of Lord Jagannath.',
+    intro:
+      'The Mahalakshmi Temple in Puri holds a special place in Jagannath tradition, where the goddess is worshipped as the divine provider of nourishment and abundance.',
+    story:
+      'Pilgrims often visit this shrine before partaking in Mahaprasad, believing the blessings of Mahalakshmi sanctify the sacred food offered in the temple.',
+    significance:
+      'The temple is deeply connected to the rituals and kitchen traditions of Jagannath Temple, one of the largest temple kitchens in the world.',
+    personalExperience:
+      'The peaceful atmosphere near the shrine offered a softer and quieter spiritual experience compared to the bustling main temple.',
+    highlights: ['Temple Kitchen Traditions', 'Prosperity Goddess', 'Jagannath Rituals'],
+    gallery: [
+      {
+        src: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9i9ERJuNaVf66L6RsnLFoHcQT8Pbwl84GpQ&s',
+        alt: 'Entrance to Mahalakshmi shrine',
+      },
+      {
+        src: 'https://assets.odishabytes.com/wp-content/uploads/2021/02/prasad-e1612967514206.jpg',
+        alt: 'Temple rituals in progress',
+      },
+      {
+        src: 'https://www.orissapost.com/wp-content/uploads/2020/06/This-legend-highlights-casteless-culture-of-Mahalakshmi.jpg',
+        alt: 'Devotees at the Mahalakshmi temple',
+      },
+    ],
+  },
+  {
+    slug: 'tota-gopinath',
+    name: 'Tota Gopinath',
+    region: 'Puri, Odisha, India',
+    coverImage:
+      'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7l5kzYY6w3OEfpQbnrqr0_u1Xskadp59-TA&s',
+    coverAlt: 'Deity of Tota Gopinath seated inside the temple sanctum',
+    shortDescription:
+      'A serene Krishna temple closely associated with Chaitanya Mahaprabhu and deep Gaudiya Vaishnava devotion.',
+    intro:
+      'Tota Gopinath Temple is a spiritually significant site in Puri, known for its beautiful deity of Lord Krishna in a rare seated posture.',
+    story:
+      'Hidden within peaceful lanes away from crowded pilgrimage routes, the temple feels intimate and deeply meditative. Devotional singing often fills the courtyard.',
+    significance:
+      'The temple is closely linked to Chaitanya Mahaprabhu, who spent his later years in Puri immersed in Krishna bhakti.',
+    personalExperience:
+      'The quiet devotional atmosphere and soft chanting inside the temple created a feeling of closeness and emotional warmth.',
+    highlights: ['Gaudiya Vaishnavism', 'Seated Krishna Deity', 'Chaitanya Mahaprabhu Connection'],
+    gallery: [
+      {
+        src: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSI6w1X0XfmYoW2BJjSXXDrAYSXQei5ijSvyQ&s',
+        alt: 'Temple courtyard at Tota Gopinath',
+      },
+      {
+        src: 'https://www.tirthayatra.org/wp-content/uploads/2023/09/Untitled-design-5-1.jpg',
+        alt: 'Devotees singing bhajans',
+      },
+      {
+        src: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThjjIeuDGGtWYVQjn-mOJjtJzhg8tQUDWB_Q&s',
+        alt: 'Sacred shrine interior',
+      },
+    ],
+  },
+  {
+    slug: 'konark-sun-temple',
+    name: 'Konark Sun Temple',
+    region: 'Konark, Odisha, India',
+    coverImage:
+      'https://suryainn.in/wp-content/uploads/2023/09/konark-time-table.jpg',
+    coverAlt: 'The iconic stone chariot structure of Konark Sun Temple',
+    shortDescription:
+      'A magnificent UNESCO World Heritage monument shaped like a celestial stone chariot dedicated to the Sun God.',
+    intro:
+      'Konark Sun Temple is one of India’s greatest architectural masterpieces, famous for its intricate carvings and grand chariot-like design.',
+    story:
+      'As sunlight falls across the ancient stone wheels and sculptures, the temple appears alive with stories carved centuries ago.',
+    significance:
+      'Built in the 13th century by King Narasimhadeva I, the temple symbolizes the Sun God Surya riding across the heavens.',
+    personalExperience:
+      'Walking around the massive carved wheels and weathered sculptures felt like stepping into a timeless work of art.',
+    highlights: ['UNESCO World Heritage', 'Stone Chariot Design', 'Ancient Sculptures'],
+    gallery: [
+      {
+        src: 'https://kevinstandagephotography.wordpress.com/wp-content/uploads/2020/03/ksp_6402-2-1.jpg?w=1024',
+        alt: 'Front view of Konark temple',
+      },
+      {
+        src: 'https://upload.wikimedia.org/wikipedia/commons/3/34/Sun_Temple_Konark_Puri_District_Odisha.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original',
+        alt: 'Famous stone wheel carvings',
+      },
+      {
+        src: 'https://cf-images.assettype.com/TNIE/import/2020/1/25/original/Konark_Sun_temple.jpg?w=1200&h=900&auto=format%2Ccompress&fit=max&enlarge=true',
+        alt: 'Temple sculptures at sunset',
+      },
+    ],
+  },
+  {
+    slug: 'alarnath',
+    name: 'Alarnath',
+    region: 'Brahmagiri, Odisha, India',
+    coverImage:
+      'https://www.go2india.in/orissa/images/alarnath-temple.jpg',
+    coverAlt: 'Ancient Alarnath temple in Brahmagiri',
+    shortDescription:
+      'A sacred Vishnu temple where devotees gather during the period when Lord Jagannath is believed to rest away from public view.',
+    intro:
+      'Alarnath Temple is an important pilgrimage destination associated with Lord Vishnu and deeply connected to Jagannath traditions.',
+    story:
+      'During Anavasara, when Jagannath Temple remains closed, thousands of devotees travel here seeking darshan and spiritual comfort.',
+    significance:
+      'The temple is especially important in Gaudiya Vaishnavism and is linked with the devotional journeys of Chaitanya Mahaprabhu.',
+    personalExperience:
+      'The atmosphere felt simple yet spiritually powerful, with devotees singing bhajans in deep devotion.',
+    highlights: ['Anavasara Pilgrimage', 'Vishnu Worship', 'Gaudiya Vaishnava Heritage'],
+    gallery: [
+      {
+        src: 'https://universeheaven.org/wp-content/uploads/2025/06/1000532994.jpg',
+        alt: 'Temple courtyard at Alarnath',
+      },
+      {
+        src: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRldJw7ySzX0FTdQBf7xHax2vWKVcrXRegDBQ&s',
+        alt: 'Devotees at Alarnath temple',
+      },
+      {
+        src: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQq16ndfGXOTYdUj5bXWlQ9nPBz33f1U8u-yg&s',
+        alt: 'Ancient temple architecture',
+      },
+    ],
+  },
+  {
+    slug: 'sakshi-gopal',
+    name: 'Sakshi Gopal',
+    region: 'Puri, Odisha, India',
+    coverImage:
+      'https://res.cloudinary.com/kmadmin/image/upload/v1724159266/kiomoi/sakshi_gopal_9452.jpg',
+    coverAlt: 'Sacred Sakshi Gopal temple entrance',
+    shortDescription:
+      'A beloved Krishna temple tied to the legendary story of the deity acting as a divine witness for truth and devotion.',
+    intro:
+      'Sakshi Gopal Temple is dedicated to Lord Krishna and is one of the most spiritually cherished pilgrimage sites near Puri.',
+    story:
+      'The temple’s legend tells of Lord Krishna walking as a witness for a devoted disciple, symbolizing divine justice and faithfulness.',
+    significance:
+      'The name “Sakshi” means witness, and the temple stands as a reminder of truth, devotion, and the living presence of Krishna.',
+    personalExperience:
+      'The temple carried a warm village-like spiritual charm that felt deeply personal and welcoming.',
+    highlights: ['Krishna Devotion', 'Legend of Divine Witness', 'Historic Pilgrimage Site'],
+    gallery: [
+      {
+        src: 'https://shono.sangbadpratidin.in/wp-content/uploads/2022/10/Sakhi-gopal-1200x900.jpg',
+        alt: 'Temple sanctum at Sakshi Gopal',
+      },
+      {
+        src: 'https://www.iskconbangalore.org/blog//wp-content/uploads/2015/07/Sakshi-Gopal.jpg',
+        alt: 'Devotees offering prayers',
+      },
+      {
+        src: 'https://www.astroved.com/astropedia/assets/images/temples/Sakshi-Gopal-Temple-Puri.jpg',
+        alt: 'Temple architecture details',
+      },
+    ],
+  },
+  {
+    slug: 'lingraj-temple',
+    name: 'Lingraj Temple',
+    region: 'Bhubaneswar, Odisha, India',
+    coverImage:
+      'https://static.toiimg.com/photo/47158773/.jpg',
+    coverAlt: 'Towering Lingraj Temple in Bhubaneswar',
+    shortDescription:
+      'A majestic masterpiece of Kalinga architecture dedicated to Lord Shiva, standing as the spiritual soul of Bhubaneswar.',
+    intro:
+      'Lingraj Temple is one of the oldest and grandest temples in Odisha, dedicated to Harihara, a combined form of Shiva and Vishnu.',
+    story:
+      'The towering spire dominates the Bhubaneswar skyline, while the scent of incense and continuous chants create a deeply sacred atmosphere.',
+    significance:
+      'Built in the 11th century, the temple represents the pinnacle of Kalinga temple architecture and remains an active center of Shaivite worship.',
+    personalExperience:
+      'Seeing the temple rise above the city at sunrise felt awe-inspiring, especially with the sound of bells echoing through the complex.',
+    highlights: ['Kalinga Architecture', 'Ancient Shiva Temple', 'Harihara Worship'],
+    gallery: [
+      {
+        src: 'https://s7ap1.scene7.com/is/image/incredibleindia/lingaraj-temple-bhubaneshwar-odisha-2-attr-hero?qlt=82&ts=1742165154990',
+        alt: 'Temple complex from above',
+      },
+      {
+        src: 'https://s7ap1.scene7.com/is/image/incredibleindia/lingaraj-temple-bhubaneshwar-odisha-3-attr-about?qlt=82&ts=1742182882691',
+        alt: 'Detailed carvings on the temple tower',
+      },
+      {
+        src: 'https://img-cdn.publive.online/fit-in/640x430/filters:format(webp)/odishatv/media/post_attachments/uploadimage/library/16_9/16_9_0/Shivratri_1620278957.jpg',
+        alt: 'Evening prayers at Lingraj Temple',
+      },
+    ],
+  },
 ];
