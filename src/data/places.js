@@ -49,7 +49,7 @@ export const places = [
       'According to Hindu belief, this is the exact point where the Ganga officially begins its journey. Devprayag is also associated with sage Dev Sharma, after whom the town is named, and has been a site of pilgrimage for centuries.',
     personalExperience:
       'Sitting quietly above the sangam, listening to the sound of merging waters, felt grounding in a way that’s hard to explain. It’s not crowded or overwhelming — just raw, peaceful, and deeply spiritual.',
-    highlights: ['Sangam (Confluence)', 'Raghunathji Temple', 'Dashrathshila Temple'],
+    highlights: ['Sangam', 'Raghunathji Temple', 'Dashrathshila Temple'],
     gallery: [
       {
         src: 'https://sannidhi.net/wp-content/uploads/2023/07/devprayag2.png',
@@ -116,7 +116,7 @@ export const places = [
       'Kedarnath is one of the twelve Jyotirlingas of Lord Shiva and a central site in the Char Dham Yatra. Its spiritual importance is amplified by its remoteness, symbolizing perseverance, surrender, and faith. The temple is also historically associated with Adi Shankaracharya, who is believed to have revived pilgrimage traditions in the region.',
     personalExperience:
       'What stayed with me most was the contrast between physical exhaustion and emotional calm. The trek demanded effort, but the closer I got to the temple, the lighter everything felt. Kedarnath left me with a rare kind of quiet that was both grounding and uplifting.',
-    highlights: ['High-altitude shrine', 'Stone temple architecture', 'Snowline views'],
+    highlights: ['High-altitude shrine', 'Stone architecture', 'Jyotirlinga'],
     gallery: [
       {
         src: 'https://www.shivkhori.in/wp-content/uploads/2025/09/Kedarnath-Temple.webp',
@@ -149,7 +149,7 @@ export const places = [
       'Triyugi Narayan is traditionally believed to be the site of the divine marriage of Lord Shiva and Goddess Parvati. The sacred fire, said to have burned since that wedding, is central to the temple’s identity and makes the place especially meaningful for couples and devotees seeking blessings for marriage and harmony.',
     personalExperience:
       'This was one of the most emotionally memorable stops for me because it felt deeply human as well as spiritual. There was gentleness in the environment, and the mythology made the entire visit feel tender, timeless, and reflective.',
-    highlights: ['Mythological wedding site', 'Eternal sacred flame', 'Quiet village atmosphere'],
+    highlights: ['Wedding site', 'Eternal sacred flame', 'Quiet village atmosphere'],
     gallery: [
       {
         src: 'https://triyuginarayantemple.com/wp-content/uploads/2024/03/triyuginarayan-temple.jpg',
@@ -183,7 +183,7 @@ export const places = [
       'Tungnath is one of the Panch Kedar temples dedicated to Lord Shiva and is often described as the highest Shiva temple in the world. Its setting reinforces the spiritual symbolism of ascent, offering a pilgrimage where nature and devotion are inseparable.',
     personalExperience:
       'Tungnath felt joyful. The trail was energizing, the scenery kept unfolding in dramatic ways, and the final approach to the temple felt deeply peaceful. It was one of those journeys where the walk itself became the prayer.',
-    highlights: ['Panch Kedar temple', 'Scenic mountain trek', 'Alpine meadow landscape'],
+    highlights: ['Panch Kedar temple', 'Scenic mountain trek', 'Jyotirlinga'],
     gallery: [
       {
         src: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzA9nrQFWOJtFGcrTTeDClvoS1fGPjMwkqzw&s',
@@ -216,7 +216,7 @@ export const places = [
       'Dedicated to Lord Vishnu, Badrinath is one of the Char Dham pilgrimage sites and among the most revered temples in India. It is deeply tied to Hindu sacred geography and is associated with Adi Shankaracharya, who helped re-establish it as an important center of worship.',
     personalExperience:
       'Badrinath felt expansive in a different way from Kedarnath. Instead of silence alone, I found energy here: ritual sounds, bright colors, and a sense that devotion could be both intimate and collective at the same time.',
-    highlights: ['Char Dham site', 'Riverside setting', 'Color-rich temple facade'],
+    highlights: ['Char Dham', 'Riverside setting', 'Color-rich temple facade'],
     gallery: [
       {
         src: 'https://s7ap1.scene7.com/is/image/incredibleindia/2-mana-village-badrinath-uttarakhand-attr-hero?qlt=82&ts=1726646481060',
@@ -282,7 +282,7 @@ export const places = [
       'According to belief, when the arm of the Narasimha idol eventually falls, the route to Badrinath will be permanently blocked, marking the end of the current pilgrimage path. The temple is also closely linked to Adi Shankaracharya, who established Joshimath as a spiritual center.',
     personalExperience:
       'There’s a calm intensity here — not crowded, not loud, just deeply rooted faith. Sitting inside the temple, you feel a mix of peace and curiosity, especially knowing the legend tied to the idol.',
-    highlights: ['Narasimha Idol', 'Winter Seat of Badrinath', 'Joshimath Monastic Heritage'],
+    highlights: ['Narasimha Idol', 'Winter Seat', 'Joshimath Monastic Heritage'],
     gallery: [
       {
         src: 'https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgZPHl48KnJ8Bvnwwvbu3igaVc15o0oVXr5McOmfucFfCQ0mOxkfkeL0kY9Vt6p1aqsEp5jqYD3baf-EiMUqxt1FkJLJNCKXIULQX5PVLFrNCmvu8OtbwbUmk3G-RMI22-chLLP1u3Bp4M/s1600/Joshimath+Narsing_Courtesy-NallaniKrishna.JPG',
@@ -381,7 +381,7 @@ export const places = [
       'Mahakaleshwar is one of the twelve Jyotirlingas and is unique because it is dakshinamukhi (south-facing). It is also one of the 18 Shakti Peethas.',
     personalExperience:
       'Watching the evening aarti by the Kshipra river after visiting the temple was a moment of pure serenity. Mahakal taught me about the cycle of life.',
-    highlights: ['Bhasma Aarti ritual', 'South-facing Jyotirlinga', 'Kshipra River Ghats'],
+    highlights: ['Bhasma Aarti', 'Kshipra River', 'Southfacing Jyotirlinga'],
     gallery: [
       {
         src: 'https://m.media-amazon.com/images/I/61Fx8McRlML._AC_UF894,1000_QL80_.jpg',
@@ -414,7 +414,7 @@ export const places = [
       'According to legend, this is the place where a part of Goddess Sati’s body fell, making it a sacred Shakti Peetha. The temple was also a center of worship during the reign of King Vikramaditya, who was a devoted follower of the goddess.',
     personalExperience:
       'Seeing the lamp towers lit up at dusk was something else — calm, powerful, and almost hypnotic. The energy here feels intense but grounding at the same time.',
-    highlights: ['Deep Stambh (Lamp Towers)', 'Shakti Peetha Significance', 'Navratri Celebrations'],
+    highlights: ['Deep Stambh (Lamp Towers)', 'Shakti Peeth', 'Navratri Celebrations'],
     gallery: [
       {
         src: 'https://bhasmarti.com/wp-content/uploads/2025/01/image-4-1024x576.png',
@@ -447,7 +447,7 @@ export const places = [
       'Kal Bhairav is considered the guardian deity (Kotwal) of Ujjain. The temple is associated with tantric rituals and is mentioned in ancient texts. Offering liquor here is an age-old tradition believed to please the deity and remove obstacles.',
     personalExperience:
       'The vibe here is unlike typical temples — powerful, slightly mysterious, and deeply rooted in belief. It makes you question and admire the diversity of spiritual practices in India.',
-    highlights: ['Liquor Offering Ritual', 'Kal Bhairav Idol', 'Tantric Significance'],
+    highlights: ['Liquor Offering', 'Kal Bhairav Idol', 'Tantric Significance'],
     gallery: [
       {
         src: 'https://cdn.shopify.com/s/files/1/1328/9161/files/kal_bhairav_temple_ujjain_480x480.jpg?v=1661066144',
@@ -480,7 +480,7 @@ export const places = [
       'One of the 12 Jyotirlingas, Omkareshwar is unique for its island setting. It is associated with King Mandhata and has been a center of pilgrimage for thousands of years.',
     personalExperience:
       'Taking a boat ride around the island at sunset was magical. The reflection of the temple in the water and the distant sounds of chanting made it unforgettable.',
-    highlights: ['Om-shaped island', 'Narmada river boat ride', 'Ancient rock-cut shrines'],
+    highlights: ['Om-shaped island', 'Narmada river boat ride', 'Jyotirlinga'],
     gallery: [
       {
         src: 'https://chardham.ticketstotrip.com/wp-content/uploads/2025/08/omkareshwar-temple-island.webp',
@@ -546,7 +546,7 @@ export const places = [
       'Varanasi is the holiest of the seven sacred cities (Sapta Puri). The temple is a Jyotirlinga and has been destroyed and rebuilt several times, symbolizing the eternal nature of faith.',
     personalExperience:
       'The morning Ganga Aarti followed by a visit to Vishwanath Ji was the highlight of my trip. The city is chaotic yet perfectly still at its core.',
-    highlights: ['Golden Shikhara', 'Vishwanath Corridor', 'Ganga Aarti'],
+    highlights: ['Jyotirlinga', 'Vishwanath Corridor', 'Ganga Aarti'],
     gallery: [
       {
         src: 'https://d18guwlcxyb2ak.cloudfront.net/wp-content/uploads/2019/03/13043614/CIty-Varanasi-Kashi-Vishwanath.jpg',
@@ -579,7 +579,7 @@ export const places = [
       'According to legend, Goddess Annapurna once fed Lord Shiva here, symbolizing that even the divine depends on nourishment. The temple represents the belief that food is sacred and should always be shared, making it an important cultural and spiritual symbol.',
     personalExperience:
       'There’s something deeply grounding about this temple — simple, warm, and welcoming. It reminds you of the importance of gratitude for even the smallest things, like a meal.',
-    highlights: ['Goddess Annapurna Idol', 'Proximity to Kashi Vishwanath', 'Anna Daan (Food Offering Tradition)'],
+    highlights: ['Goddess Annapurna', 'Anna Daan', 'Proximity to Kashi Vishwanath'],
     gallery: [
       {
         src: 'https://cdn.triptotemples.com/ImageManager/shri-annapurna-temple-the-temple-of-goddess-of-food-681c31ac7db8c142cd1b50d5-42442430.webp',
@@ -592,39 +592,6 @@ export const places = [
       {
         src: 'https://dorituals.com/wp-content/uploads/2025/03/images-19-900x500.jpeg',
         alt: 'Nearby Varanasi ghats',
-      },
-    ],
-  },
-  {
-    slug: 'vishalakshi-temple-varanasi',
-    name: 'Vishalakshi Temple, Varanasi',
-    region: 'Varanasi, Uttar Pradesh',
-    coverImage:
-      'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyrmMv2cRFMhPnVJUXNly9N1tznny79JmLTQ&s',
-    coverAlt: 'Vishalakshi Temple located in the narrow lanes of Varanasi',
-    shortDescription:
-      'A sacred Shakti Peetha in Kashi — where divine feminine energy is believed to reside eternally.',
-    intro:
-      'Vishalakshi Temple in Varanasi is one of the revered Shakti Peethas, dedicated to Goddess Vishalakshi, a form of Parvati. It is an important spiritual site that complements the presence of Shiva at Kashi Vishwanath.',
-    story:
-      'Hidden within the narrow गलियाँ of Varanasi, the temple carries a quiet yet powerful presence. Unlike grand structures, its simplicity adds to its depth. Devotees come with a sense of reverence, knowing that this place is tied to one of the most profound mythological events.',
-    significance:
-      'According to Hindu belief, this is the spot where the earring (kundal) of Goddess Sati fell during the cosmic event of her dismemberment. The physical relic is not visible today, as it is believed to have merged into the earth, leaving behind a powerful spiritual energy.',
-    personalExperience:
-      'The temple feels intimate and deeply spiritual. There’s no overwhelming grandeur — just a strong sense of presence that makes you pause and reflect.',
-    highlights: ['Shakti Peetha Significance', 'Goddess Vishalakshi Idol', 'Near Kashi Vishwanath Temple'],
-    gallery: [
-      {
-        src: 'https://www.tirupatihelps.com/wp-content/uploads/2026/01/Kasi-Vishalakshi-Devi.jpg',
-        alt: 'Temple entrance view',
-      },
-      {
-        src: 'https://astrosane.com/storage/app/public/images/page/EnVJvzn3RL3tC0vvGGCC7kJLIslNfjMr0zhh9eQj.png',
-        alt: 'Idol of Goddess Vishalakshi',
-      },
-      {
-        src: 'https://searchothings.com/wp-content/uploads/2024/09/Untitled-design-60.png',
-        alt: 'Narrow lanes of Varanasi near temple',
       },
     ],
   },
@@ -678,7 +645,7 @@ export const places = [
       'The birthplace of Lord Ram, Ayodhya is one of the most important pilgrimage sites in Hinduism. The new temple is built in the Nagara style and is a masterpiece of Indian craftsmanship.',
     personalExperience:
       'I felt a sense of collective joy in Ayodhya. Everyone was smiling, chanting, and sharing the same feeling of devotion. It was truly a historic moment.',
-    highlights: ['Ram Janmabhoomi', 'Nagara Architecture', 'Sarayu River Aarti'],
+    highlights: ['Ram Janmabhoomi', 'Nagara Architecture', 'Sarayu River'],
     gallery: [
       {
         src: 'https://c9admin.cottage9.com/uploads/5652/ayodhya-ram-mandir-murti.jpg',
@@ -744,7 +711,7 @@ export const places = [
       'Pashupatinath is one of the most important Shiva temples in the world. Its unique pagoda architecture and the sacredness of the Bagmati river make it a central pilgrimage site.',
     personalExperience:
       'Sitting on the opposite bank as the sun set was deeply reflective. The temple reflecting in the water brought a sense of peace that I have rarely found elsewhere.',
-    highlights: ['Bagmati River Aarti', 'UNESCO World Heritage', 'Pagoda Architecture'],
+    highlights: ['Bagmati River Aarti', 'UNESCO World Heritage', 'Jyotirlinga'],
     gallery: [
       {
         src: 'https://prashantb.wordpress.com/wp-content/uploads/2023/02/pashupatinath.jpg',
@@ -777,7 +744,7 @@ export const places = [
       'Named from "Mana" (heart) and "Kamana" (wish), the temple dates back to the 17th century and is a significant site for both religious and cultural reasons.',
     personalExperience:
       'The sight of the temple surrounded by clouds was stunning. It felt like being on top of the world, both physically and spiritually.',
-    highlights: ['Scenic Cable Car', 'Wish-fulfilling Goddess', 'Himalayan Ridge Views'],
+    highlights: ['Scenic CableCar', 'Wish-fulfilling', 'Himalayan Ridge Views'],
     gallery: [
       {
         src: 'https://cms.holidaystonepal.in/media/Blogs/Manakamana-Temple/Manakamana-Temple.png',
@@ -810,7 +777,7 @@ export const places = [
     'Built in the 12th century by King Anantavarman Chodaganga Deva, the temple is one of the Char Dham pilgrimage destinations and a major center of Hindu spirituality.',
   personalExperience:
     'Watching the temple flag flutter high above the sanctum while hearing distant kirtans created a feeling of timeless devotion and energy.',
-  highlights: ['Char Dham Pilgrimage', 'Rath Yatra Festival', 'Mahaprasad Tradition'],
+  highlights: ['Char Dham', 'Rath Yatra Festival', 'Mahaprasad Tradition'],
   gallery: [
     {
       src: 'https://tirupatitirumalainfo.com/wp-content/uploads/2017/07/balabhadra_subhadra_jagannath.jpg',
@@ -843,7 +810,7 @@ export const places = [
       'It is believed that the feet of Goddess Sati fell here, making it one of the sacred Shaktipeeths. Mahaprasad from Jagannath Temple becomes complete only after being offered to Vimala Devi.',
     personalExperience:
       'The calmness inside the shrine felt deeply grounding, especially amid the vibrant energy of the larger temple complex.',
-    highlights: ['Sacred Shaktipeeth', 'Inside Jagannath Complex', 'Ancient Goddess Worship'],
+    highlights: ['Shakti peeth', 'Ancient Goddess', 'Inside Jagannath Complex'],
     gallery: [
       {
         src: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9yMcL1kMOI8kk0wiuZ9s4TRhAUAkRXTxOmQ&s',
@@ -876,7 +843,7 @@ export const places = [
       'The temple is deeply connected to the rituals and kitchen traditions of Jagannath Temple, one of the largest temple kitchens in the world.',
     personalExperience:
       'The peaceful atmosphere near the shrine offered a softer and quieter spiritual experience compared to the bustling main temple.',
-    highlights: ['Temple Kitchen Traditions', 'Prosperity Goddess', 'Jagannath Rituals'],
+    highlights: ['Temple Kitchen', 'Prosperity Goddess', 'Jagannath Rituals'],
     gallery: [
       {
         src: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9i9ERJuNaVf66L6RsnLFoHcQT8Pbwl84GpQ&s',
@@ -909,7 +876,7 @@ export const places = [
       'The temple is closely linked to Chaitanya Mahaprabhu, who spent his later years in Puri immersed in Krishna bhakti.',
     personalExperience:
       'The quiet devotional atmosphere and soft chanting inside the temple created a feeling of closeness and emotional warmth.',
-    highlights: ['Gaudiya Vaishnavism', 'Seated Krishna Deity', 'Chaitanya Mahaprabhu Connection'],
+    highlights: ['Gaudiya Vaishnavism', 'Seated Deity', 'Chaitanya Mahaprabhu'],
     gallery: [
       {
         src: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSI6w1X0XfmYoW2BJjSXXDrAYSXQei5ijSvyQ&s',
@@ -942,7 +909,7 @@ export const places = [
       'Built in the 13th century by King Narasimhadeva I, the temple symbolizes the Sun God Surya riding across the heavens.',
     personalExperience:
       'Walking around the massive carved wheels and weathered sculptures felt like stepping into a timeless work of art.',
-    highlights: ['UNESCO World Heritage', 'Stone Chariot Design', 'Ancient Sculptures'],
+    highlights: ['UNESCO World Heritage', 'Stone Chariot', 'Ancient Sculptures'],
     gallery: [
       {
         src: 'https://kevinstandagephotography.wordpress.com/wp-content/uploads/2020/03/ksp_6402-2-1.jpg?w=1024',
@@ -975,7 +942,7 @@ export const places = [
       'The temple is especially important in Gaudiya Vaishnavism and is linked with the devotional journeys of Chaitanya Mahaprabhu.',
     personalExperience:
       'The atmosphere felt simple yet spiritually powerful, with devotees singing bhajans in deep devotion.',
-    highlights: ['Anavasara Pilgrimage', 'Vishnu Worship', 'Gaudiya Vaishnava Heritage'],
+    highlights: ['Anavasara Pilgrimage', 'Vishnu Worship', 'Gaudiya Vaishnava'],
     gallery: [
       {
         src: 'https://universeheaven.org/wp-content/uploads/2025/06/1000532994.jpg',
@@ -1008,7 +975,7 @@ export const places = [
       'The name “Sakshi” means witness, and the temple stands as a reminder of truth, devotion, and the living presence of Krishna.',
     personalExperience:
       'The temple carried a warm village-like spiritual charm that felt deeply personal and welcoming.',
-    highlights: ['Krishna Devotion', 'Legend of Divine Witness', 'Historic Pilgrimage Site'],
+    highlights: ['Krishna Devotion', 'Divine Witness', 'Historic Pilgrimage Site'],
     gallery: [
       {
         src: 'https://shono.sangbadpratidin.in/wp-content/uploads/2022/10/Sakhi-gopal-1200x900.jpg',
@@ -1041,7 +1008,7 @@ export const places = [
       'Built in the 11th century, the temple represents the pinnacle of Kalinga temple architecture and remains an active center of Shaivite worship.',
     personalExperience:
       'Seeing the temple rise above the city at sunrise felt awe-inspiring, especially with the sound of bells echoing through the complex.',
-    highlights: ['Kalinga Architecture', 'Ancient Shiva Temple', 'Harihara Worship'],
+    highlights: ['Kalinga Architecture', 'Ancient Temple', 'Harihara Worship'],
     gallery: [
       {
         src: 'https://s7ap1.scene7.com/is/image/incredibleindia/lingaraj-temple-bhubaneshwar-odisha-2-attr-hero?qlt=82&ts=1742165154990',
